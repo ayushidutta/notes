@@ -24,4 +24,6 @@ NIPS 2020 | [Geo-PIFU](https://arxiv.org/pdf/2006.08072.pdf) | Implicit, Supervi
 
 - [Detailed 2D-3D Joint Representation for Human-Object Interaction](https://arxiv.org/pdf/2004.08154.pdf), CVPR 2020
 - [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.pdf), ICCV 2023
+
+# Other Relevant Papers
 - 
